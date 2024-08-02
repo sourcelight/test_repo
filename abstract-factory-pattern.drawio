@@ -166,8 +166,8 @@
             <mxPoint x="834" y="434" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZPUrjxDYV-NaB7OGTdrR-63" value="This pattern allows to crete a family of products, I the case I need to create another family product I do the following:&lt;div&gt;Create another ProductC interface&lt;br&gt;Create other Concrete Product from &quot;&lt;span style=&quot;background-color: initial;&quot;&gt;ProductC interface&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;in the abstractFactory adding a a new abstract method:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;createAbstractProductC:AbstractProductC&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="50" width="560" height="80" as="geometry" />
+        <mxCell id="ZPUrjxDYV-NaB7OGTdrR-63" value="This pattern allows to crete a family of products, I the case I need to create another family product I do the following:&lt;div&gt;1)Create another ProductC interface&lt;br&gt;2)Create other Concrete Product from &quot;&lt;span style=&quot;background-color: initial;&quot;&gt;ProductC interface&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3)In the abstractFactory adding a a new abstract method:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;createAbstractProductC:AbstractProductC&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#7C6EFF;" vertex="1" parent="1">
+          <mxGeometry x="390" y="40" width="650" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
